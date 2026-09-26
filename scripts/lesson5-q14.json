@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "**Question Number:** 14\n\n**Full Text:**\nTwo numbers, a and b, are each greater than zero, and the square root of a is equal to the cubic root of b. For what value of x is $a^{(2x-1)}$ equal to b?\n\n**Options:**\nA. 1\nB. 3/2\nC. 5/4\nD. 3\n\n**Correct Answer: C (5/4)**",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1790434862,
+  "id": "2026092623010036a2c9acb4ad4c6f",
+  "model": "glm-5v-turbo",
+  "object": "chat.completion",
+  "request_id": "2026092623010036a2c9acb4ad4c6f",
+  "usage": {
+    "completion_tokens": 99,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 2708,
+    "prompt_tokens_details": {
+      "cached_tokens": 2
+    },
+    "total_tokens": 2807
+  }
+}

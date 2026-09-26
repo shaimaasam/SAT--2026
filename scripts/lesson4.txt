@@ -1,0 +1,231 @@
+NOTE :.
+
+NOTE :.
+
+  z = $\frac{x + 3}{2y}$
+
+1.  The given equation relates the distinct positive real numbers x, y,
+    and z. Which equation correctly expresses x in terms of y and z?
+
+    A.  x = 2yz - 3
+
+    B.  x = $\frac{z}{2y} - 3$
+
+    C.  x = 2yz + 3
+
+    D.  x = $\frac{z - 3}{2y}$
+
+2.  The equation $y = \frac{x + w}{z}$ relates the positive numbers w,
+    x, y, and z. Which equation correctly expresses x in terms of w, y,
+    and z?
+
+    A.  x = yz + w
+
+    B.  x = $\frac{yz}{w}$
+
+    C.  x = zw
+
+    D.  x = yz - w
+
+3.  The given equation relates the distinct positive real numbers q, r,
+    s and t. Which equation correctly expresses t in terms of q, r and
+    s?
+
+  r^(q) = t^(s)
+
+A.  t = r^(q − s) 
+
+B.  $t = \ \ r^{\frac{s}{q}}$
+
+C.  $t = r^{\frac{q}{s}}$
+
+D.  $t\, = \,\frac{r^{q}}{s}$
+
+4.  The equation $y = \ \ \sqrt{\frac{hg}{x}}$ relates the positive
+    numbers g, h, x and y. Which equation correctly expresses h in terms
+    of g, x and y?
+
+    A.  h = $\frac{gy^{2}}{x}$
+
+    B.  h = gxy
+
+    C.  h = $\frac{xy^{2}}{g}$
+
+    D.  h = gxy²
+
+5.  If $2\sqrt{2x} = a$, what is 2x in terms of a?
+
+A.  $\frac{a^{2}}{2}$
+
+B.  4a²
+
+C.  $\frac{a^{2}}{4}$
+
+D.  $\frac{a}{2}$
+
+6.  P% of x is 3. Which expression represents x in terms of p?
+
+  [] A. $\frac{p}{(100)(3)}$
+
+  B. $\frac{3p}{100}$
+
+  [] C. $\frac{(100)(3)}{p}$
+
+  D. $\frac{3}{p}$
+
+  (y + g)(kx + g) = 1
+
+7.  The given equation relates the positive numbers g, x, and y. Which
+    equation correctly expresses y in terms of g, k, and x?
+
+    A.  y = kx − g
+
+    B.  $y = \frac{1}{kx + g} - g$
+
+    C.  $y = \frac{1 - g}{kx + g}$
+
+    D.  y = 1 − kx − 2g
+
+8.  The ratio of 6 to x is equivalent to the ratio of 24 to y. Which
+    equation represents y in terms of x?
+
+A.  y = 5x
+
+B.  y = 4x
+
+C.  $y = \frac{1}{4}x$
+
+D.  $y = \frac{1}{5x}$
+
+  ka + nb = 10
+
+9.  The given equation relates the positive numbers a, b, k, and n.
+    Which of the following correctly expresses a in terms of b, k and n?
+
+A.  a $= \frac{10 - k}{nb}$
+
+B.  a $= \ 10 - \frac{k}{nb}$
+
+C.  a $= 10 - \frac{nb}{k}$
+
+D.  a $= \frac{10 - nb}{k}$
+
+A = P(rt+1)
+
+10. The equation shown gives A in terms of P, r, and t, where P and r
+    are not equal to 0. Which equation gives t in terms of A, P and r?
+
+A.  t= $\frac{A}{P} - \frac{1}{r}$
+
+B.  $t = \frac{A}{\Pr} - \frac{1}{r}$
+
+C.  $t = \frac{A}{\Pr} - \frac{1}{pr}$
+
+D.  $t = \frac{A}{r} - \frac{p}{r}\ $
+
+  2dx − 3cx = 2cd − x
+
+11. The given equation relates the real numbers c, d, and x, where c
+
+  < 0 and d > 0. Which equation correctly express x in terms of c and d?
+
+A.  $x = \frac{2cd}{2d - 3c\  + \ 1}$
+
+B.  $x = \frac{2 + 2c}{2c + 3d}$
+
+C.  $x = \frac{2d + 3c}{1 - c}$
+
+D.  $x = \frac{3d}{2d - 3c}$
+
+  wxy + xyz = wx + yz
+
+12. In the equation above, w, x, and z are each greater than 1. Which of
+    the following is equivalent to y?
+
+A.  y $= \frac{1}{x}$
+
+B.  y = -x
+
+C.  y $= \frac{1}{xz - z}$
+
+D.  y = $\frac{wx}{wx + xz - z}$
+
+2xy + 3xt - 7yt = 0
+
+13. In the equation above, x and y are positive and x < y.
+
+  What is t in terms of x and y?
+
+A.  $t = \frac{1}{2}$
+
+B.  $t = \frac{2xy}{3x - 7y}$
+
+C.  $t = \frac{xy}{2(y - x)}$
+
+D.  $t = \frac{2xy}{7y - 3x}$
+
+14. If 4x + 4 = 20, What is the value of x + 1?
+
+  A. 4
+
+  B. 9
+
+  C. 5
+
+  D. 6
+
+15. If $\frac{6}{x + 1} = 3$, what is the value of x + 1?
+
+  A. 1
+
+  B. 2
+
+  C. 3
+
+  []D. 0.5
+
+16. x² + 10 = 91. What is the positive solution to the given equation?
+
+A.  9
+
+B.  51
+
+C.  10
+
+D.  41
+
+17. If $3\left( \frac{x}{5} + \ \frac{1}{2} \right)\  + \ 1 = 10$, what
+    is the value of
+    $\ \ \ \frac{\mathbf{x}}{\mathbf{5}}\mathbf{+}\frac{\mathbf{1}}{\mathbf{2}}\mathbf{\ }$
+
+A.  12
+
+B.  1
+
+C.  6
+
+D.  3
+
+18. If $\frac{2x}{3} - 2 = \frac{x}{3} + 1$, what is the value of x?
+
+    A.  9
+
+    B.  -9
+
+    C.  3
+
+    D.  18
+
+19. The expression
+    $\frac{\mathbf{x}^{\mathbf{6}}\left( \mathbf{x - 3} \right)}{\mathbf{2}\mathbf{x}}\mathbf{+}\frac{\mathbf{3}\mathbf{x}^{\mathbf{6}}}{\mathbf{2}\mathbf{x}}$
+    is equivalent to
+    $\frac{\mathbf{1}\mathbf{\ \ x}^{\mathbf{c}}}{\mathbf{2}}$, where c
+    is a constant and x > 0. What is the value of c?
+
+A.  6
+
+B.  4
+
+C.  $\frac{1}{2}$
+
+D.  2

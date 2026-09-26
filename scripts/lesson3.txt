@@ -1,0 +1,225 @@
+NOTE :.
+
+NOTE :.
+
+  |x + 2| = 9
+
+1.  What is the solution to the given equation?
+
+    A.  7
+
+    B.  11
+
+    C.  -7
+
+    D.  4
+
+  |x - 4| = 19
+
+2.  What are all the solution to the given equation?
+
+    A.  -15 and 23
+
+    B.  15 only
+
+    C.  23 only
+
+    D.  15 and -23
+
+  2|x-9| = 20
+
+3.  What is the sum of the solution to the given equation?
+
+    A.  18
+
+    B.  20
+
+    C.  19
+
+    D.  -1
+
+|x-1| = 8
+
+4.  If x is a solution to the given equation, what is a possible value
+    of x - 1?
+
+A.  -6
+
+B.  6
+
+C.  7
+
+D.  -8
+
+  |x + 2| = |x - 8|
+
+5.  What is the solution to the given equation?
+
+    A.  -3
+
+    B.  3
+
+    C.  -6
+
+    D.  6
+
+  |x + 3| = 0
+
+6.  Exactly how many solutions does the given equation have?
+
+A.  Three
+
+B.  One
+
+C.  Two
+
+D.  Zero
+
+4x - 2y > 8
+
+7.  Which of the following ordered pairs (x, y) are in the solution set
+    for the inequality above?
+
+I.  (-1,-10)
+
+II. (2,0)
+
+III. (1,-2)
+
+A.  III only
+
+B.  I only
+
+C.  II only
+
+D.  I and II only
+
+  y > 4x
+
+  y < -x
+
+8.  When graphed in the xy-plane, what point (x, y) is a solution to the
+    given system of inequalities?
+
+  [] A. (3,-3)
+
+  [] B. (1,1)
+
+  [] C. (-2,-2)
+
+  [] D. (-4,4)
+
+9.  []Which shaded region shown represents the solutions to which
+    inequality?
+
+A.  y ≤  - 3x + 1
+
+B.  y  ≥ −3x + 1
+
+C.  y ≥ 3x-1
+
+D.  y ≤ 3x-1
+
+10. y =−2x + 3  and    y = x − 3 . Point P (not shown) has (2, -4)
+
+and lies in the shaded region. Which of the following is (are) true
+about point P?
+
+  I. The coordinates of P satisfy y <  − 2x + 3
+
+  II. The coordinates of P satisfy y > x − 3
+
+A.  []Neither I nor II
+
+B.  I only
+
+C.  I and II
+
+D.  II
+
+11. At the beginning of a laboratory experiment, Miguel had 10
+    milliliters of a solution in a flask. The first step of the
+    experiment consisted of Miguel pouring x milliliters of the solution
+    into a beaker and y milliliters of the solution into a different
+    beaker. There remained at least 4 milliliters of the solution in the
+    flask after the first step. Which of the following inequalities can
+    be used to correctly represent this situation?
+
+A.  4 − x + y   ≥ 5
+
+B.  10 – x +y ≥ 4
+
+C.  10 – x - y ≥ 4
+
+D.  4 – x -y ≥ 5
+
+12. Howard needs to move a large number of boxes from one floor to
+    another in an office building by using an elevator. The elevator has
+    a weight limit of 650 pounds. Howard weighs 160 pounds and each box
+    weighs 35 pounds. Which of the following inequalities describes the
+    limit on the number of boxes, b, that Howard can ride with in the
+    elevator in one trip?
+
+  [] A. 160b + 35  ≤ 650
+
+  [] B. 35b + 160  ≤ 650
+
+  [] C. 35(b + 160) ≤ 650
+
+  [] D. 35b − 160  ≤ 650
+
+13. Ms. Anderson currently has 550 contracts on an online professional
+    networking site. Her goal is to have at least 1,000 contracts. If
+    she wants to meet this goal in 25 weeks, what is the minimum number
+    of contracts per week, on average, she should add?
+
+A.  22
+
+B.  18
+
+C.  21
+
+D.  1
+
+14. Sanjay works as a teacher's assistant for 20 per hour and tutors
+    privately for 25 per hour. Last week, he made at least 100 working x
+    hours as a teacher's assistant and y hours as a private tutor. Which
+    of the following inequalities models this situation?
+
+A.  5x + 4y  ≥ 20
+
+B.  5x + 4y  ≥ 25
+
+C.  4x + 5y  ≥ 25
+
+D.  4x + 5y  ≥ 20
+
+15. A company offers its salespeople two different weekly compensation
+    plans. Salespeople on Plan X earn 1,000 plus a 10% commission their
+    sales each week. Salespeople on Plan Y earn 500 plus a 20%
+    commission on their sales each week. Which inequality models the
+    amount in sales each week, d dollars, for which salespeople on Plan
+    X earn more than salespeople of Plan Y?
+
+A.  d < 5000
+
+B.  d < 1500
+
+C.  d > 5000
+
+D.  d > 1500
+
+16. In ancient Egypt, from 2810 BC to 2800 BC, the course of the Nile
+    riverbed moved eastward at least 2 meters per year but no more than
+    3 meters per year. Which of the following inequalities represents
+    all possible values for the total distance, d, in meters, the Nile
+    riverbed moved eastward for 4 consecutive years during this time
+    period?
+
+A.  2 ≤d ≤ 3
+
+B.  0 ≤ d  ≤ 2 
+
+C.  8 ≤d ≤12
+
+D.  4 ≤d ≤8

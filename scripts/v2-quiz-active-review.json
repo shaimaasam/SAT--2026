@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Yes, the interface features a progress bar at the top of the quiz area, indicating that this is question 1 of 10. The question card is clearly visible and is distinguished by a prominent teal left border. The four answer options (A, B, C, and D) are displayed as individual buttons, each containing a circular bubble with its respective letter. A timer is also present in the upper right corner of the quiz section, currently showing 11:59 remaining. Overall, the layout is clean and well-organized for an interactive quiz experience.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1790110034,
+  "id": "20260923044710f25e601bed8a450a",
+  "model": "glm-5v-turbo",
+  "object": "chat.completion",
+  "request_id": "20260923044710f25e601bed8a450a",
+  "usage": {
+    "completion_tokens": 113,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 1134,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1247
+  }
+}

@@ -1,0 +1,313 @@
+   
+
+NOTE:.
+
+ slope-intercept form y = mx + b
+
+NOTE :.
+
+standard form Ax + By = C
+
+[]
+
+ Parallel perpendicular lines
+
+NOTE :.
+
+1.  The function f is defined by f(x) = x + 1. What is the y-intercept
+    of the graph of y = f(x) in the xy-plane?
+
+  [] A. (0,-3)
+
+  [] B. (0,-1)
+
+  [] C. (0,3)
+
+  [] D. (0,1)
+
+2.  What is the x-intercept of the graph of the function f(x) = - 5x -
+    10 in the xy-plane,
+
+  [] A. (-5,0)
+
+  [] B. (-2,0)
+
+  [] C. (-10,0)
+
+  [] D. (10,0)
+
+3.  line in the xy-plane passes through the points (2,6) and (6, 12).
+    Which of the following is an equation of this line?
+
+  [] A.
+  $\mathbf{y =}\frac{\mathbf{3}}{\mathbf{2}}\mathbf{x +}\frac{\mathbf{14}}{\mathbf{3}}$
+
+  B. $\mathbf{y =}\frac{\mathbf{3}}{\mathbf{2}}\mathbf{x +}\mathbf{3}$
+
+  C. y = x + 8
+
+  [] D.
+  $\mathbf{y =}\frac{\mathbf{2}}{\mathbf{3}}\mathbf{x +}\frac{\mathbf{14}}{\mathbf{3}}$
+
+4.  Which of the following is an equation of the line in the xy-plane
+    that contains the points (1,3) and (5,15)?
+
+A.  $\mathbf{y =}\frac{\mathbf{1}}{\mathbf{2}}\mathbf{x}$
+
+B.  y = 2x + 5
+
+C.  y = 3x
+
+D.  y = x + 2
+
+5.  The table shows some values of x and their corresponding values
+    of y. there is a linear relationship between x and y. Which of the
+    following equations represents this relationship?
+
+    A.  []y = 0.5x - 2
+
+    B.  y = 2x - 4
+
+    C.  y = 0.5x + 2
+
+    D.  y = 12x + 14
+
+6.  The table above shows several values of x and their corresponding
+    values of y, where k is a nonzero constant. If the relationship
+    between x and y is linear, which of the following defines this
+    relationship?
+
+A.  []y = -2kx
+
+B.  y = kx
+
+C.  y = -2k - x - 1
+
+D.  y = 2x(k + 1)
+
+7.  between the prices during an online sale, where x is the nonsale
+    price, in dollars, of an item and y is the total sale price, in
+    dollars, of the item including a shipping fee.
+
+  Which equation represents the relationship between x and y?
+
+A.  []y = 2x + 10
+
+B.  y = 2x - 10
+
+-   C. $\mathbf{y =}\frac{\mathbf{1}}{\mathbf{2}}\mathbf{x - 10}$
+
+-   D. $\mathbf{y =}\frac{\mathbf{1}}{\mathbf{2}}\mathbf{x + 10}$
+
+8.  []The graph shown models the relationship between the distance D, in
+    kilometers, from Earth to the Moon and the time T, in millions of
+    years after the present. Which of the following equations models
+    this relationship?
+
+  [] A. D = 38T - 385,000
+
+  [] B. D = -38T - 385,000
+
+  [] C. D = -38T + 385,000
+
+-   D. D = 38T + 385,000
+
+9.  graph represents the total charges, in dollars, by a contractor for
+    x hours of work. The contractor charges a onetime fee plus an hourly
+    rate. What is the best interpretation of the slope of the graph?
+
+A.  []The contractor’s hourly rate
+
+B.  The maximum amount that the contractor charges
+
+C.  The contractor’s onetime fee
+
+D.  The total amount that the contractor charges
+
+10. The equation h = 250 + 20t gives the total number of housing units,
+    h, in a community t months after a new zoning law was passed. How
+    many housing units are added to the community each month after the
+    zoning law was passed?
+
+A.  20
+
+  [] B. 260
+
+  [] C. 2500
+
+  [] D. 250
+
+  g(x) = 0.038x + 2.136
+
+11. The given linear function g models the annual percentage increase in
+    the population of India x years after 1990. What is the best
+    interpretation of g(10) = 1.486 in this context?
+
+A.  1.486 years after 1990, the percentage increase in the population of
+    India was 10% over the previous year.
+
+B.  1.486 years after 1990, India's population was approximately 10
+    times its population in 1990.
+
+C.  10 years after 1990 India's population was approximately 1.486 times
+    its population in 1990.
+
+D.  10 years after 1990, the percentage increase in the population of
+    India was 1.486% over the previous year.
+
+12. A solution is formed by adding m grams of propylene glycol to 100
+    grams of water. For this solution, the freezing point, in kelvins,
+    is modeled by the function
+
+  T(m) = 273.2 - 0.372m. Which of the following is the best
+  interpretation of this statement "T(22) is approximately equal to 266"
+  in this context?
+
+A.  A solution formed by adding 266 grams of propylene glycol to 100
+    grams of water has an estimated freezing point of 22 kelvins.
+
+B.  A solution formed by adding 22 grams of propylene glycol to 100
+    grams of water has an estimated freezing point of 266 kelvins.
+
+C.  For every 22 grams of propylene glycol added to 100 grams of water,
+    the freezing point of the solution is estimated to decrease by 266
+    kelvins.
+
+D.  For every 266 grams of propylene glycol added to 100 grams of water,
+    the freezing point of the solution is estimated to decrease by 22
+    kelvins.
+
+13. For a survey, students were assigned to either group R or group V.
+    Combined, the students in both groups answered a total of 18
+    questions. Of these, a total of 6 questions were answered by the
+    students in group V. The equation 3r + 6 = 18 describes this
+    situation, where r represents the number of questions answered by
+    each student in group R. Which of the following is the best
+    interpretation of 3r in this context.
+
+A.  The number of students in group V.
+
+B.  The total number of questions answered by students in group V.
+
+C.  The total number of questions answered by students in group R.
+
+D.  The number of students at group R.
+
+14. Larry is training for a half marathon by going on a long run every
+    Saturday. He will run 4 miles on the first Saturday of his training.
+    Each Saturday after the first, he will run 2 more miles than he ran
+    on the preceding Saturday. Which of the following equations
+    represents the number of miles m Larry will run on the nth Saturday
+    of his training?
+
+A.  m = 2n + 2
+
+B.  m=2^(n)+3
+
+C.  m = 2n - 1
+
+D.  m = 2n + 4
+
+15. When a zebra fish was 25 days old, the length of its tail fin was
+
+  3.0 millimeters (mm). The length of the fin increased by 0.06 mm each
+  day for the next 175 days. Which of the following types of functions
+  best describes how the fin length changed over time during this
+  175-day period?
+
+A.  Decreasing exponential
+
+B.  Increasing linear
+
+C.  Increasing exponential
+
+D.  Decreasing linear
+
+16. What is the x-coordinate of the x-intercept of the line with
+    equation
+    $\mathbf{\ }\frac{\mathbf{2x}}{\mathbf{3}}\mathbf{+}\frac{\mathbf{y}}{\mathbf{3}}\mathbf{= 1}$
+    when it is graphed in the xy- plane?
+
+  A. 2
+
+  B. 1
+
+  [] C. 1.5
+
+  [] D. 0.5
+
+17. []An equation of the graph shown is ax + by = 8 where a and b are
+    constants. What is the value of b?
+
+A.  2
+
+B.  4
+
+C.  -4
+
+D.  -2
+
+18. The equation 4x + 20y = 4,700 models the total number of trees in
+    the neighborhood consisting of x-hectare park and 30-hectare
+    residential area. The total number of trees in the neighborhood is
+    4,700. Which is the best interpretation of x in this context?
+
+A.  The number of trees per hectare in the residential area.
+
+B.  The total number of trees in the park.
+
+C.  The number of trees per hectare in the park.
+
+D.  The total number of trees in the residential area.
+
+19. The variable x and y are related such that each time x increases by
+    3, y decreases by 4.
+
+  If y = 8 and x = 0, which of the following equation expresses the
+  relationship between x and y?
+
+[] A. 3x - 4y = -32
+
+  B. 3x - 4y = 8
+
+C. 3x + 4y = 32
+
+D. 4x + 3y = 24
+
+20. Line L is defined by
+    $\mathbf{y =}\frac{\mathbf{1}}{\mathbf{6}}\mathbf{x - 4.}$ Line k is
+    parallel to line l in the xy-plane. What is the slope of line k?
+
+A.  $\mathbf{}\frac{\mathbf{1}}{\mathbf{6}}$
+
+B.  - 6
+
+C.  $\mathbf{}\mathbf{-}\frac{\mathbf{1}}{\mathbf{6}}$
+
+D.  6
+
+21. Line p is defined by 4y + 8x = 18. Line r is perpendicular to line p
+    in the xy-plane.
+
+  What is the slope of line r?
+
+E.  2
+
+F.  -2
+
+G.  $\mathbf{-}\frac{\mathbf{1}}{\mathbf{2}}$
+
+H.  $\frac{\mathbf{1}}{\mathbf{2}}$
+
+22. In the xy-plane, line k with equation y = mx + b, where m and b are
+    constants, passes through the point (-3, 1). If line k is
+    perpendicular to the line with equation y = -2x + 3, what is the
+    value of b?
+
+  [] A. -0.5
+
+  [] B. 0.5
+
+  [] C. -2.5
+
+  [] D. 2.5
